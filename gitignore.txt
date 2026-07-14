@@ -1,0 +1,20 @@
+# Python compiled files
+**/__pycache__/
+**/*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE/Tool configs
+.claude/
+.vscode/
+.idea/
+
+# Local databases
+**/creditcard.db
+**/instance/
+
+# Large raw datasets
+**/data/*.csv
+**/models/*.pkl
